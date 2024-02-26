@@ -10,7 +10,7 @@ The project will work on any dataframe of reviews containing a column named "rev
 
 **Usage:** 
 Line 29 can be used to adjust how much of the dataset to analyse, the below screenshots are outputs for the first 100 entries only:
-[Polarity_output]: (https://github.com/reuben367/finalCapstone/blob/master/polarity_output.png)
-[Subjectivity_output] (https://github.com/reuben367/finalCapstone/blob/master/star_rating_output.png)
-[Star-rating_output]
+Polarity_output: https: //github.com/reuben367/finalCapstone/blob/master/polarity_output.png
+Subjectivity_output: https://github.com/reuben367/finalCapstone/blob/master/subjectivity_output.png 
+Star-rating_output: (https://github.com/reuben367/finalCapstone/blob/master/star_rating_output.png
 
